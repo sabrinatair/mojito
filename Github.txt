@@ -1,0 +1,36 @@
+ git add. 
+ git commit -m "preparation du mojito" 
+ git push -u  
+   
+ git add.  
+ git commit -m "POUR 2"  
+ git push -u  
+
+ git add .  
+ git commit -m "POUR 10"  
+ git push -u  
+
+ git branch "malade" 
+ git checkout "malade"  
+ git add .  
+ git commit -m "indigeste"  
+ git push -u  
+  
+ git add .  
+ git commit -m "double indigeste"  
+ git push -u  
+  
+ git checkout "main"  
+ git add .  
+ git commit -m "pas d'autre invités"  
+ git push -u  
+
+ git add .  
+ git commit -m "lien cv"  
+ git push -u  
+  
+ git branch "dev"  
+ git checkout "dev"  
+ git add .  
+ git commit -m "cv"  
+ git push -u  
